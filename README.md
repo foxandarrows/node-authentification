@@ -1,1 +1,1 @@
-Simple NodeJS server-side authentification
+Simple NodeJS & ExpressJS server-side authentification
